@@ -1,0 +1,88 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/image.png
+  - assets/vectors/arrow_left_1_x2.svg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/cellular_connection_1_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/images/hamza.jpeg
+  - assets/images/ellipse_643.png
+  - assets/vectors/month_chevron_x2.svg
+  - assets/vectors/month_chevron_1_x2.svg
+  - assets/vectors/cellular_connection_2_x2.svg
+  - assets/vectors/profile_2_x2.svg
+  - assets/vectors/heart_1_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/logout_x2.svg
+  - assets/vectors/month_chevron_3_x2.svg
+  - assets/vectors/notification_x2.svg
+  - assets/vectors/month_chevron_2_x2.svg
+  - assets/vectors/wifi_6_x2.svg
+  - assets/vectors/profile_x2.svg
+  - assets/images/rectangle_32.jpeg
+  - assets/images/car_silver_4.png
+  - assets/vectors/container_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/cellular_connection_5_x2.svg
+  - assets/vectors/icon_14_x2.svg
+  - assets/vectors/icon_10_x2.svg
+  - assets/vectors/icon_x2.svg
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/icon_18_x2.svg
+  - assets/vectors/arrow_left_4_x2.svg
+  - assets/images/rectangle_41.jpeg
+  - assets/vectors/arrow_left_2_x2.svg
+  - assets/vectors/icon_9_x2.svg
+  - assets/vectors/icon_1_x2.svg
+  - assets/vectors/icon_3_x2.svg
+  - assets/vectors/battery_6_x2.svg
+  - assets/vectors/cellular_connection_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/group_12558_x2.svg
+  - assets/vectors/group_12557_x2.svg
+  - assets/vectors/outline_interface_plus_x2.svg
+  - assets/vectors/icon_8_x2.svg
+  - assets/images/rectangle_41.jpeg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/outline_interface_plus_1_x2.svg
+  - assets/vectors/icon_16_x2.svg
+  - assets/vectors/cellular_connection_3_x2.svg
+  - assets/vectors/icon_2_x2.svg
+  - assets/vectors/icon_19_x2.svg
+  - assets/vectors/icon_12_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/images/image.png
+  - assets/images/rectangle_18803.jpeg
+  - assets/vectors/rectangle_188031_x2.svg
+  - assets/vectors/cellular_connection_4_x2.svg
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/images/user_image.png
+  - assets/vectors/wifi_4_x2.svg
+  - assets/vectors/shape_x2.svg
+  - assets/vectors/cellular_connection_6_x2.svg
+  - assets/vectors/arrow_left_x2.svg
+  - assets/vectors/battery_1_x2.svg
+
