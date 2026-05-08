@@ -1,5 +1,5 @@
 name: flutter_app
-description: "A new Flutter project."
+description: "Navify - Flutter UI prototype for a navigation experience."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
@@ -85,4 +85,3 @@ flutter:
   - assets/vectors/cellular_connection_6_x2.svg
   - assets/vectors/arrow_left_x2.svg
   - assets/vectors/battery_1_x2.svg
-
